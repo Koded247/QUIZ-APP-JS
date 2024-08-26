@@ -1,5 +1,40 @@
 [
   {
+    "question": "Which of the following is the correct syntax to print a message in the console?",
+    "options": [
+      "console.print('Hello World');",
+      "console.log('Hello World');",
+      "console.write('Hello World');",
+      "print('Hello World');"
+    ],
+    "answer": "console.log('Hello World');"
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["React", "Laravel", "Django", "Flask"],
+    "answer": "React"
+  },
+  {
+    "question": "How do you add a comment in JavaScript?",
+    "options": ["<!-- Comment -->", "// Comment", "# Comment", "/* Comment */"],
+    "answer": "// Comment"
+  },
+  {
+    "question": "What does the 'this' keyword refer to in JavaScript?",
+    "options": [
+      "It refers to the global object.",
+      "It refers to the object from which it was called.",
+      "It refers to the function in which it was called.",
+      "It refers to the parent object."
+    ],
+    "answer": "It refers to the object from which it was called."
+  },
+  {
+    "question": "Which method removes the last element from an array?",
+    "options": [".pop()", ".push()", ".shift()", ".slice()"],
+    "answer": ".pop()"
+  },
+  {
     "question": "Which of the following is a correct way to declare a JavaScript variable?",
     "options": ["var myVar;", "let myVar;", "const myVar;", "All of the above"],
     "answer": "All of the above"
@@ -68,41 +103,6 @@
       "JSON.convert()"
     ],
     "answer": "JSON.parse()"
-  },
-  {
-    "question": "Which of the following is the correct syntax to print a message in the console?",
-    "options": [
-      "console.print('Hello World');",
-      "console.log('Hello World');",
-      "console.write('Hello World');",
-      "print('Hello World');"
-    ],
-    "answer": "console.log('Hello World');"
-  },
-  {
-    "question": "Which of the following is a JavaScript framework?",
-    "options": ["React", "Laravel", "Django", "Flask"],
-    "answer": "React"
-  },
-  {
-    "question": "How do you add a comment in JavaScript?",
-    "options": ["<!-- Comment -->", "// Comment", "# Comment", "/* Comment */"],
-    "answer": "// Comment"
-  },
-  {
-    "question": "What does the 'this' keyword refer to in JavaScript?",
-    "options": [
-      "It refers to the global object.",
-      "It refers to the object from which it was called.",
-      "It refers to the function in which it was called.",
-      "It refers to the parent object."
-    ],
-    "answer": "It refers to the object from which it was called."
-  },
-  {
-    "question": "Which method removes the last element from an array?",
-    "options": [".pop()", ".push()", ".shift()", ".slice()"],
-    "answer": ".pop()"
   },
   {
     "question": "What will the following code output: console.log(0.1 + 0.2 === 0.3);?",
